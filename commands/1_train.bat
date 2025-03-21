@@ -1,0 +1,2 @@
+.\.venv\Scripts\python .\experiments\train_classifier.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt -o .\results\ex1_classifier_0915 -l .\results\ex1_classifier_0915.log --device cpu
+.\.venv\Scripts\python .\experiments\train_pointlk.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt -o .\results\ex1_pointlk_0915 -l .\results\ex1_pointlk_0915.log --transfer-from ./results/ex1_classifier_0915_feat_best.pth --epochs 400 --device cpu

@@ -1,0 +1,16 @@
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_00.csv --mag 0.0
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_01.csv --mag 0.1
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_02.csv --mag 0.2
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_03.csv --mag 0.3
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_04.csv --mag 0.4
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_05.csv --mag 0.5
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_06.csv --mag 0.6
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_07.csv --mag 0.7
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_08.csv --mag 0.8
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_09.csv --mag 0.9
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_10.csv --mag 1.0
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_11.csv --mag 1.1
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_12.csv --mag 1.2
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_13.csv --mag 1.3
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_14.csv --mag 1.4
+.\.venv\Scripts\python .\experiments\generate_perturbations.py -i .\dataset\ModelNet40 -c .\experiments\sampledata\modelnet40_half1.txt --no-translation -o .\results\gt\pert_15.csv --mag 1.5

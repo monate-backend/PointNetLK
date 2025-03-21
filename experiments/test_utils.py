@@ -1,4 +1,5 @@
-
+import os
+import sys
 import numpy
 import math
 import torch
@@ -34,7 +35,7 @@ import ptlk
 #     #         [-s2,     0,     0]])
 
 
-def rotm2eul(m):
+def rotm2eul(R):
     """ m (3x3, rotation matrix) --> rotation m = Rz*Ry*Rx
     """
     c = math.sqrt(R[0,0] * R[0,0] +  R[1,0] * R[1,0])
